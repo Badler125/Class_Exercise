@@ -1,5 +1,7 @@
 # Class_Exercise
 
+[NFT](images/5030.PNG)
+
 ## Introduction
 
 * My name is Benny, I am a college student trying to break into the world of FinTech.
