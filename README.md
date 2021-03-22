@@ -1,6 +1,6 @@
 # Class_Exercise
 
-![NFT](images/5030.PNG)
+![NFT](images/5030.png)
 
 
 
