@@ -15,4 +15,4 @@
 
 ### Table of contents
 
-![our code] (code)
+* [our code](code)
