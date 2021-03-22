@@ -16,3 +16,5 @@
 ### Table of contents
 
 * [our code](code)
+* [our data](data)
+* [our references](references)
